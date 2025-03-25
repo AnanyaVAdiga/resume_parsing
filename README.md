@@ -22,8 +22,4 @@ Recruiters face challenges in manually reviewing thousands of resumes, leading t
 ## **🛠 Tech Stack**  
 - **Python, scikit-learn, transformers, Llama Index**  
 
-## **📦 Installation & Setup**  
-```bash
-git clone https://github.com/AnanyaVAdiga/resume-parsing.git
-cd resume-parsing
-pip install -r requirements.txt    
+   
